@@ -1,0 +1,16 @@
+﻿[
+  {
+    "name": "Blood Shreth Kill Task",
+	"num_kills": 10,
+	"start_message": "San Ming tells you, \"So, you wish to prove your hunting prowess? Well then. Track down and slay 10 of the terrible Blood Shreth for me, and I will reward you appropriately.\"\n",
+    "monster_substrings": ["Blood Shreth"],
+    "end_message": "San Ming tells you, \"Excellent work, friend! You have slain many of the terrible beasts! Allow me to reward you!\"\n"
+  },
+  {
+    "name": "Olthoi Nettler Kill Task",
+	"num_kills": 10,
+	"start_message": "Olthoi Hunter tells you, \"Track down and slay 10 Olthoi Nettlers and I will reward you appropriately.\"\n",
+    "monster_substrings": ["Olthoi Nettlers"],
+    "end_message": "Olthoi Hunter tells you, \"Excellent work, friend! You have slain many Olthoi Nettlers! Allow me to reward you!\"\n"
+  }
+]
