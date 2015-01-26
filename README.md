@@ -6,3 +6,5 @@ This plugin has no GUI and is entirely automated. It detects chat messages to st
 Your progress is saved in a file named after the character in question in the directory where you place the DLL.
 
 The kill tasks are defined in 'task_definitions.json' which must be colocated with the DLL. Please send me a message if there is something I am missing, or that isn't working correctly.
+
+Download the latest release [here](https://github.com/dfransway/KillTaskTracker/releases/latest).
