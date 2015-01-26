@@ -4,13 +4,421 @@
 	"num_kills": 10,
 	"start_message": "San Ming tells you, \"So, you wish to prove your hunting prowess? Well then. Track down and slay 10 of the terrible Blood Shreth for me, and I will reward you appropriately.\"\n",
     "monster_substrings": ["Blood Shreth"],
-    "end_message": "San Ming tells you, \"Excellent work, friend! You have slain many of the terrible beasts! Allow me to reward you!\"\n"
+    "end_messages": ["San Ming tells you, \"Excellent work, friend! You have slain many of the terrible beasts! Allow me to reward you!\"\n"]
   },
   {
     "name": "Olthoi Nettler Kill Task",
 	"num_kills": 10,
 	"start_message": "Olthoi Hunter tells you, \"Track down and slay 10 Olthoi Nettlers and I will reward you appropriately.\"\n",
     "monster_substrings": ["Olthoi Nettlers"],
-    "end_message": "Olthoi Hunter tells you, \"Excellent work, friend! You have slain many Olthoi Nettlers! Allow me to reward you!\"\n"
+    "end_messages": ["Olthoi Hunter tells you, \"Excellent work, friend! You have slain many Olthoi Nettlers! Allow me to reward you!\"\n"]
+  },
+  {
+    "name": "Aun Golem Hunters - Mud Golem Sludge Lords",
+	"num_kills": 5,
+	"start_message": "Aun Akuarea tells you, \"Would you like to hunt them as well? Very well, scour this region and others like it and I am sure you will find the golem. Kill five of these golems, return to me and I will see that your battles are rewarded!\"\n",
+    "monster_substrings": ["Mud Golem Sludge Lords"],
+    "end_messages": 
+	[
+	  "Aun Akuarea tells you, \"Excellent! Your keh burns brightly with victory! As I promised, a reward for you! It isn't much, simply some fixings I brought with me from Timaru! Here, feast with me as we celebrate your achievement!\"\n",
+	  "Aun Akuarea tells you, \"Excellent! Your keh burns brightly with victory! Here is something to recognize your efforts in hunting the Mud Golem Sludge Lords!\"\n"
+	]
+  },
+  {
+    "name": "Aun Golem Hunters - Iron Golem Kingpins",
+	"num_kills": 5,
+	"start_message": "Aun Tiulerea tells you, \"Would you like to hunt them as well? Very well, scour this region and others like it and I am sure you will find the golem. Kill five of these golems, return to me and I will see that your battles are rewarded!\"\n",
+    "monster_substrings": ["Iron Golem Kingpins"],
+    "end_messages": 
+	[
+	  "Aun Tiulerea tells you, \"Excellent! Your keh burns brightly with victory! As I promised, a reward for you! It isn't much, simply some fixings I brought with me from Timaru! Here, feast with me as we celebrate your achievement!\"\n",
+	  "Aun Tiulerea tells you, \"Excellent! Your keh burns brightly with victory! Here is something to recognize your efforts in hunting the Iron Golem Kingpins!\"\n"
+	]
+  },
+  {
+    "name": "Aun Golem Hunters - Glacial Golem Margraves",
+	"num_kills": 5,
+	"start_message": "Aun Maerirea tells you, \"Would you like to hunt them as well? Very well, scour this region and others like it and I am sure you will find the golem. Kill five of these golems, return to me and I will see that your battles are rewarded!\"\n",
+    "monster_substrings": ["Glacial Golem Margraves"],
+    "end_messages": 
+	[
+	  "Aun Maerirea tells you, \"Excellent! Your keh burns brightly with victory! As I promised, a reward for you! It isn't much, simply some fixings I brought with me from Timaru! Here, feast with me as we celebrate your achievement!\"\n",
+	  "Aun Maerirea tells you, \"Excellent! Your keh burns brightly with victory! Here is something to recognize your efforts in hunting the Glacial Golem Margraves!\"\n"
+	]
+  },
+  {
+    "name": "Aun Golem Hunters - Magma Golem Exarchs",
+	"num_kills": 5,
+	"start_message": "Aun Autuorea tells you, \"Would you like to hunt them as well? Very well, scour this region and others like it and I am sure you will find the golem. Kill five of these golems, return to me and I will see that your battles are rewarded!\"\n",
+    "monster_substrings": ["Magma Golem Exarchs"],
+    "end_messages": 
+	[
+	  "Aun Autuorea tells you, \"Excellent! Your keh burns brightly with victory! As I promised, a reward for you! It isn't much, simply some fixings I brought with me from Timaru! Here, feast with me as we celebrate your achievement!\"\n",
+	  "Aun Autuorea tells you, \"Excellent! Your keh burns brightly with victory! Here is something to recognize your efforts in hunting the Magma Golem Exarchs!\"\n"
+	]
+  },
+  {
+    "name": "Aun Golem Hunters - Coral Golem Viceroys",
+	"num_kills": 5,
+	"start_message": "Aun Aukherea tells you, \"Would you like to hunt them as well? Very well, scour this region and others like it and I am sure you will find the golem. Kill five of these golems, return to me and I will see that your battles are rewarded!\"\n",
+    "monster_substrings": ["Coral Golem Viceroys"],
+    "end_messages": 
+	[
+	  "Aun Aukherea tells you, \"Excellent! Your keh burns brightly with victory! As I promised, a reward for you! It isn't much, simply some fixings I brought with me from Timaru! Here, feast with me as we celebrate your achievement!\"\n",
+	  "Aun Aukherea tells you, \"Excellent! Your keh burns brightly with victory! Here is something to recognize your efforts in hunting the Coral Golem Viceroys!\"\n"
+	]
+  },
+  {
+    "name": "Aun Golem Hunters - Platinum Golem Mountain Kings",
+	"num_kills": 5,
+	"start_message": "Aun Khekierea tells you, \"Would you like to hunt them as well? Very well, scour this region and others like it and I am sure you will find the golem. Kill five of these golems, return to me and I will see that your battles are rewarded!\"\n",
+    "monster_substrings": ["Platinum Golem Mountain Kings"],
+    "end_messages": 
+	[
+	  "Aun Khekierea tells you, \"Excellent! Your keh burns brightly with victory! As I promised, a reward for you! It isn't much, simply some fixings I brought with me from Timaru! Here, feast with me as we celebrate your achievement!\"\n",
+	  "Aun Khekierea tells you, \"Excellent! Your keh burns brightly with victory! Here is something to recognize your efforts in hunting the Platinum Golem Mountain Kings!\"\n"
+	]
+  },
+  {
+    "name": "Kilif Zefir Kill Task",
+	"num_kills": 35,
+	"start_message": "Hadiya bint Anan tells you, \"So, you wish to prove your hunting prowess? Well then. Track down and slay 35 of the cunning Kilif Zefir for me, and I will reward you appropriately.\"\n",
+    "monster_substrings": ["Kilif Zefirs"],
+    "end_messages": ["Hadiya bint Anan tells you, \"Excellent work, friend! You have slain many of the cunning creatures! Allow me to reward you!\"\n"]
+  },
+  {
+    "name": "Olthoi Nymph Kill Task",
+	"num_kills": 20,
+	"start_message": "Olthoi Hunter tells you, \"Track down and slay 20 Olthoi Nymphs and I will reward you appropriately.\"\n",
+    "monster_substrings": ["Olthoi Nymphs"],
+    "end_messages": ["Olthoi Hunter tells you, \"Excellent work, friend! You have slain many Olthoi Nymphs! Allow me to reward you!\"\n"]
+  },
+  {
+    "name": "Polardillo Kill Task",
+	"num_kills": 10,
+	"start_message": "Alessandro Mardro tells you, \"So, you wish to prove your hunting prowess? Well then. Track down and slay 10 of the terrible Polardillos for me, and I will reward you appropriately.\"\n",
+    "monster_substrings": ["Polardillos"],
+    "end_messages": ["Alessandro Mardor tells you, \"Excellent work, friend! You have slain many of the terrible beasts! Allow me to reward you!\"\n"]
+  },
+  {
+    "name": "Small Fledgling Mukkir Kill Task",
+	"num_kills": 15,
+	"start_message": "Royal Guard tells you, \"I have been sent by Queen Elysa to seek the aid of those willing to give it. There is a small nest of those vile Mukkir just northeast of here. If you will go thin out their number, say, kill 15 of the Small Mukkir Fledglings, I will reward you for your efforts.\"\n",
+    "monster_substrings": ["Small Fledgling Mukkir"],
+    "end_messages": ["Royal Guard tells you, \"Excellent! The Queen will be most pleased. With their numbers thinned, we should be able to keep the local infestation of Mukkir in check for a time. Here, you've earned this reward.\"\n"]
+  },
+  {
+    "name": "Olthoi Drone Kill Task",
+	"num_kills": 20,
+	"start_message": "Olthoi Hunter tells you, \"Track down and slay 20 Olthoi Drones and I will reward you appropriately.\"\n",
+    "monster_substrings": ["Olthoi Drones"],
+    "end_messages": ["Olthoi Hunter tells you, \"Excellent work, friend! You have slain many Olthoi Drones! Allow me to reward you!\"\n"]
+  },
+  {
+    "name": "Drudge Lurker Kill Task",
+	"num_kills": 100,
+	"start_message": "Jarvis Hammerstone tells you, \"In the meantime I need to rid the surrounding area of some of these Drudges. There seem to be more every day. Take this and come back to me when you have completed any of the tasks listed.\"\n",
+    "monster_substrings": ["Drudge Lurkers"],
+    "end_messages": ["Jarvis Hammerstone tells you, \"You killed 100 Drudge Lurkers!\"\n"]
+  },
+  {
+    "name": "Littoral Siraluun Kill Task",
+	"num_kills": 25,
+	"start_message": "Rico Cellini tells you, \"I have taken to hunting the Littoral Siraluun that wander these plains. Good sport, they are. If you would slay 25 of the beasts, I would reward you as a hunter whose prowess is equal to mine own.\"\n",
+    "monster_substrings": ["Littoral Siraluun"],
+    "end_messages": ["Rico Cellini tells you, \"Excellent work, friend! You have slain a great number of the beautiful creatures! Allow me to reward you!\"\n"]
+  },
+  {
+    "name": "Pumpkin Lord Kill Task",
+	"num_kills": 3,
+	"start_message": "Majestic Pumpkin tells you, \"I will not abide with these perversions of my kin. Find three of these Pumpkin Lords, as they call themselves, and destroy them. Return to me when your task is complete and I will reward you as best I can.\"\n",
+    "monster_substrings": ["Pumpkin Lords"],
+    "end_messages": ["Majestic Pumpkin tells you, \"My thanks to you child. You have killed three of the Pumpkin Lords.\"\n"]
+  },
+  {
+    "name": "Dire Mattekar Kill Task",
+	"num_kills": 10,
+	"start_message": "Fergal the Dire tells you, \"So, you wish to prove your hunting prowess? Well then. Track down and slay 10 of the terrible Dire Mattekars for me, and I will reward you appropriately.\"\n",
+    "monster_substrings": ["Dire Mattekars"],
+    "end_messages": ["Fergal the Dire tells you, \"Excellent work, friend! You have slain many of the terrible beasts! Allow me to reward you!\"\n"]
+  },
+  {
+    "name": "Ebon Gromnie Kill Task",
+	"num_kills": 25,
+	"start_message": "Afra bint Abbas tells you, \"So, you wish to prove your hunting prowess? Well then. Track down and slay 25 of the terrible Ebon Gromnies for me, and I will reward you appropriately.\"\n",
+    "monster_substrings": ["Ebon Gromnies"],
+    "end_messages": ["Afra bint Abbas tells you, \"Excellent work, friend! You have slain many of the terrible beasts! Allow me to reward you!\"\n"]
+  },
+  {
+    "name": "Deathcap Thrungus Kill Task",
+	"num_kills": 25,
+	"start_message": "Jiang Li tells you, \"So, you wish to prove your hunting prowess? Well then. Track down and slay 25 of the terrible Deathcap Thrungum for me, and I will reward you appropriately.\"\n",
+    "monster_substrings": ["Deathcap Thrungum"],
+    "end_messages": ["Jiang Li tells you, \"Excellent work, friend! You have slain many of the terrible beasts! Allow me to reward you!\"\n"]
+  },
+  {
+    "name": "Drudge Stalker Kill Task",
+	"num_kills": 100,
+	"start_message": "Jarvis Hammerstone tells you, \"In the meantime I need to rid the surrounding area of some of these Drudges. There seem to be more every day. Take this and come back to me when you have completed any of the tasks listed.\"\n",
+    "monster_substrings": ["Drudge Stalkers"],
+    "end_messages": ["Jarvis Hammerstone tells you, \"You killed 100 Drudge Stalkers!\"\n"]
+  },
+  {
+    "name": "Hea Windreave Kill Task",
+	"num_kills": 25,
+	"start_message": "Susana du Loc tells you, \"I wonder if you have come across the strange creatures they call Tumeroks on this island. Savage, filthy beasts, they are. I hate them more than I hate even the Bloodless Queen of this realm. Do me a favor, friend, and kill 25 of these Hea Windreaves for me. I would be in your debt if you would help me cleanse my new home of these disgusting creatures.\"\n",
+    "monster_substrings": ["Hea Windreaves"],
+    "end_messages": ["Susana du Loc tells you, \"You do my heart much good. I will dream of blood and death tonight!\"\n"]
+  },
+  {
+    "name": "Tumerok Gladiator Kill Task",
+	"num_kills": 25,
+	"start_message": "Lieutenant Rothe tells you, \"Track down and slay 25 of the Tumerok Gladiators for me, and I will reward you for your aid in the defense of Dryreach.\"\n",
+    "monster_substrings": ["Tumerok Gladiators"],
+    "end_messages": ["Lieutenant Rothe tells you, \"Excellent work, friend! You have slain many of those who lay siege to this fair town! Allow me to reward you!\"\n"]
+  },
+  {
+    "name": "Tusker Guard Kill Task",
+	"num_kills": 500,
+	"start_message": "Shoichi tells you, \"If you wish to do the same you must first go out and experience combat with these creatures. Return to me after you have killed 500 Tusker Guards and I will reward you.\"\n",
+    "monster_substrings": ["Tusker Guards"],
+    "end_messages": ["Shoichi tells you, \"Excellent, now go contemplate what you have learned from fighting the Tusker Guards. You may be able to apply these pratices in various different types of combat with a great variety of creatures.\"\n"]
+  },
+  {
+    "name": "Gold Gear Trooper Kill Task",
+	"num_kills": 25,
+	"start_message": "Sir Stavitor tells you, \"Return to me with anything you've learned after destroying 25 Gold Gear Troopers.\"\n",
+    "monster_substrings": ["Gold Gear Troopers"],
+    "end_messages": ["Sir Stavitor tells you, \"Congratulations, you survived and succeeded. Here, allow me to reward you for your assistance to our Queen.\"\n"]
+  },
+  {
+    "name": "Drudge Ravener Kill Task",
+	"num_kills": 50,
+	"start_message": "Jarvis Hammerstone tells you, \"In the meantime I need to rid the surrounding area of some of these Drudges. There seem to be more every day. Take this and come back to me when you have completed any of the tasks listed.\"\n",
+    "monster_substrings": ["Drudge Raveners"],
+    "end_messages": ["Jarvis Hammerstone tells you, \"You killed 50 Drudge Raveners!\"\n"]
+  },
+  {
+    "name": "Bronze Gauntlet Trooper Kill Task",
+	"num_kills": 25,
+	"start_message": "Lieutenant Grenlin tells you, \"Return to me with anything you've learned after destroying 25 Bronze Gauntlet Troopers.\"\n",
+    "monster_substrings": ["Bronze Gauntlet Troopers"],
+    "end_messages": ["Lieutenant Grenlin tells you, \"Congratulations, you survived and succeeded. Here, allow me to reward you for your assistance to our Queen.\"\n"]
+  },
+  {
+    "name": "Copper Cog Trooper Kill Task",
+	"num_kills": 25,
+	"start_message": "Lieutenant Zin tells you, \"Return to me with anything you've learned after destroying 25 Copper Cog Troopers.\"\n",
+    "monster_substrings": ["Copper Cog Troopers"],
+    "end_messages": ["Lieutenant Zin tells you, \"Congratulations, you survived and succeeded. Here, allow me to reward you for your assistance to our Queen.\"\n"]
+  },
+  {
+    "name": "Iron Blade Trooper Kill Task",
+	"num_kills": 25,
+	"start_message": "Lieutenant Micham tells you, \"Return to me with anything you've learned after destroying 25 Iron Blade Troopers.\"\n",
+    "monster_substrings": ["Iron Blade Troopers"],
+    "end_messages": ["Lieutenant Micham tells you, \"Congratulations, you survived and succeeded. Here, allow me to reward you for your assistance to our Queen.\"\n"]
+  },
+  {
+    "name": "Mosswart Townsfolk Kill Task",
+	"num_kills": 40,
+	"start_message": "Corporal Massein tells you, \"Slay forty of the Mosswart Townsfolk who live in the Mosswart holding, then return back to me. Good luck, warrior\"\n",
+    "monster_substrings": ["Mosswart Townsfolk"],
+    "end_messages": ["Corporal Massein tells you, \"Well done, warrior. You have slain all the Mosswarts that I requested of you.\"\n"]
+  },
+  {
+    "name": "Silver Scope Trooper Kill Task",
+	"num_kills": 25,
+	"start_message": "Lieutenant Faen tells you, \"Return to me with anything you've learned after destroying 25 Silver Scope Troopers.\"\n",
+    "monster_substrings": ["Silver Scope Troopers"],
+    "end_messages": ["Lieutenant Faen tells you, \"Congratulations, you survived and succeeded. Here, allow me to reward you for your assistance to our Queen.\"\n"]
+  },
+  {
+    "name": "Crystalline Killer",
+	"num_kills": 100,
+	"start_message": "Oorjit tells you, \"I'm here as a hunter and to assist Ando in his research. Go out and kill 100 Wisps in this area and I will reward you.\"\n",
+    "monster_substrings":
+	[
+		"Aggregate Crystalline Wisps",
+		"Corroding Crystalline Wisps",
+		"Corroding Pillars",
+		"Crystalline Array Satellites",
+		"Crystalline Essence Arrays",
+		"Crystalline Wisps",
+		"Incalescent Crystalline Wisps",
+		"Incalescent Pillars",
+		"Intense Aggregate Crystalline Wisps",
+		"Intense Corroding Crystalline Wisps",
+		"Intense Incalescent Crystalline Wisps",
+		"Intense Incalescent Pillars",
+		"Intense Shivering Crystalline Wisps",
+		"Intense Shivering Pillars",
+		"Intense Voltaic Crystalline Wisps",
+		"Progenitor of Acid",
+		"Progenitor of Fire",
+		"Progenitor of Frost",
+		"Progenitor of Lightning",
+		"Progenitor of Shadow",
+		"Shivering Crystalline Wisps",
+		"Shivering Pillars",
+		"Spectral Progenitors",
+		"Voltaic Crystalline Wisps",
+		"Voltaic Pillars"
+	],
+    "end_messages": ["Oorjit tells you, \"Excellent work in your hunt. We'll find your reports very useful.\"\n"]
+  },
+  {
+    "name": "Guruk Marauder Kill Task",
+	"num_kills": 40,
+	"start_message": "Kurket tells you, \"You need something to hunt? We have a problem with the Guruks invading our territories. From time to time we send hunting parties into the Catacombs to clear them out. If you want to prove you're a real hunter, track down and slay 40 of those despicable Guruk Marauders and I will reward you appropriately. They mostly forage in the Northern Catacombs.\"\n",
+    "monster_substrings": ["Guruk Marauders"],
+    "end_messages": ["Kurket tells you, \"I'm impressed. I didn't think a human could hunt that well. You have helped insure Kor-Gursha's safety and for that you deserve our thanks and a reward.\"\n"]
+  },
+  {
+    "name": "Arctic Mattekar Kill Task",
+	"num_kills": 25,
+	"start_message": "Enzo Ilario tells you, \"So, you wish to prove your hunting prowess? Well then. Track down and slay 25 of the terrible Arctic Mattekars for me, and I will reward you appropriately.\"\n",
+    "monster_substrings": ["Arctic Mattekars"],
+    "end_messages": ["Enzo Ilario tells you, \"Excellent work, friend! You have slain many of the terrible beasts! Allow me to reward you!\"\n"]
+  
+  },
+  {
+    "name": "Coral Golem Kill Task",
+	"num_kills": 50,
+	"start_message": "Malrin tells you, \"Those detestable coral golems, every time I even go near the water I seem to step on one! Do you know what kind of damage coral does to armor? Those scratches are hard to buff out of your sollerets! It won't make them go away but I'll reward you for every 50 Coral Golems that you kill.\"\n",
+    "monster_substrings": ["Coral Golems"],
+    "end_messages": ["Malrin tells you, \"Those Coral Golems won't be scratching my armor again.\"\n"]
+  
+  },
+  {
+    "name": "Banished Creature Kill Task",
+	"num_kills": 10,
+	"start_message": "Belinda du Loc tells you, \"I would like you to experience the hunting of the elusive banished creatures. Return to me when you have located and killed 10 of them.\"\n",
+    "monster_substrings":
+	[
+		"Banished Banderlings",
+		"Banished Drudges",
+		"Banished Grievvers",
+		"Banished Lugians",
+		"Banished Monougas",
+		"Banished Mu-miyahs",
+		"Banished Olthois",
+		"Banished Phyntos Wasps",
+		"Banished Shadows",
+		"Banished Tumeroks",
+		"Banished Tuskers"
+	],
+    "end_messages": ["Belinda du Loc tells you, \"Excellent, you are now an experienced hunted of banished creatures. If you have any trophies from these creatures that you don't need I will accept them and reward you alternatively.\"\n"]
+  
+  },
+  {
+    "name": "Augmented Drudge Kill Task",
+	"num_kills": 40,
+	"start_message": "Jarvis Hammerstone tells you, \"In the meantime I need to rid the surrounding area of some of these Drudges. There seem to be more every day. Take this and come back to me when you have completed any of the tasks listed.\"\n",
+    "monster_substrings": ["Augmented Drudges"],
+    "end_messages": ["Jarvis Hammerstone tells you, \"You killed 40 Augmented Drudges!\"\n"]
+  
+  },
+  {
+    "name": "Glenden Wood Invaders",
+	"num_kills": 20,
+	"start_message": "Londigul Ellic the Armorer tells you, \"We've driven the Viamontians out of town and back to where they have their blockades setup. Travel down any of the roads leading out of town to find the blockades and kill the invaders you find in that area. If you can kill twenty of the invaders I'll make you a member of the Glenden Wood Militia. Once you've proven you can fight we have more that you may be able to help us with.\"\n",
+    "monster_substrings":
+	[
+		"Eater",
+		"Engorged Eater",
+		"Famished Eater",
+		"Viamontian Knight",
+		"Viamontian Mage",
+		"Viamontian Mercenary"
+    ],
+    "end_messages": ["Londigul Ellic the Armorer tells you, \"Congratulations, you are officially a member of the Glenden Wood Militia!\"\n"]
+  
+  },
+  {
+    "name": "Altered Drudge Kill Task",
+	"num_kills": 40,
+	"start_message": "Jarvis Hammerstone tells you, \"In the meantime I need to rid the surrounding area of some of these Drudges. There seem to be more every day. Take this and come back to me when you have completed any of the tasks listed.\"\n",
+    "monster_substrings": ["Altered Drudges"],
+    "end_messages": ["Jarvis Hammerstone tells you, \"For your help in fighting the Drudge menace I grant you the wisdom of the Town Elders of Cragstone and the title \"Altered Hunter.\"\"\n"]
+  
+  },
+  {
+    "name": "Spectral Samurai Kill Task",
+	"num_kills": 10,
+	"start_message": "Lieutenant Takamaki tells you, \"If you will do me the honor of killing 10 of the Spectral Samurai within the towns or up within the walled fortress, I will reward you for your efforts.\"\n",
+    "monster_substrings": ["Spectral Samurai"],
+    "end_messages": ["Lieutenant Takamaki tells you, \"Your skill is exceptional. Take this reward for the help you have provided the kingdom.\"\n"]
+  },
+  {
+    "name": "Spectral Minion Kill Task",
+	"num_kills": 15,
+	"start_message": "Aun Kirtal tells you, \"If you will aid me by killing 15 of the Spectral Minions within the towns or up within the walled fortress, I will reward your good work.\"\n",
+    "monster_substrings": ["Spectral Minions"],
+    "end_messages": ["Aun Kirtal tells you, \"Your hunt for today is complete. Accept this reward for your aid in this.\"\n"]
+  },
+  {
+    "name": "Spectral Nanjou Shou-jen Kill Task",
+	"num_kills": 5,
+	"start_message": "Hanamoto Aki'ko tells you, \"To that end, if you will do me the honor of killing 5 of the Spectral Nanjou Shou-jen within the towns or up within the walled fortress, I will reward you for your efforts.\"\n",
+    "monster_substrings": ["Spectral Nanjou Shou-jen"],
+    "end_messages": ["Hanamoto Aki'ko tells you, \"Thank you for your aid my assigned task. Please, accept this reward for your part in this.\"\n"]
+  },
+  {
+    "name": "Spectral Bushi Kill Task",
+	"num_kills": 10,
+	"start_message": "Corporal Irashi tells you, \"If you will assist me by killing 10 of the Spectral Bushi within the towns or up within the walled fortress, I will reward you for your efforts.\"\n",
+    "monster_substrings": ["Spectral Bushis"],
+    "end_messages": ["Corporal Irashi tells you, \"Thank you for your assistance. Please, accept this reward for your efforts.\"\n"]
+  },
+  {
+    "name": "Spectral Mage Kill Task",
+	"num_kills": 5,
+	"start_message": "Lord Eorlinde tells you, \"While these two types of spirits continue to exist, they pose a tremendous threat to the kingdom. If you will aid our efforts by dispatching 5 of them, I will reward you for your assistance.\"\n",
+    "monster_substrings": 
+	[
+	  "Spectral Bloodmages", 
+	  "Spectral Voidmages"
+	],
+    "end_messages": ["Lord Eorlinde tells you, \"Your skill is remarkable. Please, accept this reward, as well as my thanks, for your assistance.\"\n"]
+  },
+  {
+    "name": "Spectral Claw Kill Task",
+	"num_kills": 10,
+	"start_message": "Griffon tells you, \"To that end, if you aid me in hunting 10 of the Spectral Claw Adepts, Claw Masters, Blade Adepts or Blade Masters, I'll happily reward you for your help.\"\n",
+    "monster_substrings": 
+	[
+	  "Spectral Blade Adepts", 
+	  "Spectral Blade Masters",
+	  "Spectral Claw Adepts",
+	  "Spectral Claw Masters"
+	],
+    "end_messages": ["Griffon tells you, \"Your skill is quite remarkable. Please, accept this reward for your aid in this.\"\n"]
+  },
+  {
+    "name": "Spectral Archer Kill Task",
+	"num_kills": 15,
+	"start_message": "Sergeant Trebuus tells you, \"If you will do me the honor of killing 15 of the Spectral Archers within the towns or up within the walled fortress, I will reward you for your assistance.\"\n",
+    "monster_substrings": ["Spectral Archers"],
+    "end_messages": ["Sergeant Trebuus tells you, \"Well done. Well done indeed. You do your people proud.\"\n"]
+  },
+  {
+    "name": "Golem Samurai Kill Task",
+	"num_kills": 5,
+	"start_message": "Lieutenant Aurin tells you, \"If you will do me the honor of killing 5 of the Golem Samurai within the towns or up within the walled fortress, I will reward you for your efforts.\"\n",
+    "monster_substrings": 
+	[
+	  "Bronze Golem Samurai", 
+	  "Clay Golem Samurai",
+	  "Iron Golem Samurai"
+	],
+    "end_messages": ["Lieutenant Aurin tells you, \"Well done, well done indeed. You are an honor to your people.\"\n"]
+  },
+  {
+    "name": "Sarcophagus Kill Task",
+	"num_kills": 4,
+	"start_message": "Sergeant Freng tells you, \"Find and destroy 4 Sarcophagi within the town to prevent more from joining her and I will reward you.\"\n",
+    "monster_substrings": ["Sarcophagi"],
+    "end_messages": ["Sergeant Freng tells you, \"Excellent work! That should help slow the spread of her evil forces.\"\n"]
   }
 ]
