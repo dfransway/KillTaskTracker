@@ -347,7 +347,7 @@
     "name": "Spectral Samurai Kill Task",
 	"num_kills": 10,
 	"start_message": "Lieutenant Takamaki tells you, \"If you will do me the honor of killing 10 of the Spectral Samurai within the towns or up within the walled fortress, I will reward you for your efforts.\"\n",
-    "monster_substrings": ["Spectral Samurai"],
+    "monster_substrings": ["Spectral Samurais"],
     "end_messages": ["Lieutenant Takamaki tells you, \"Your skill is exceptional. Take this reward for the help you have provided the kingdom.\"\n"]
   },
   {
@@ -361,7 +361,7 @@
     "name": "Spectral Nanjou Shou-jen Kill Task",
 	"num_kills": 5,
 	"start_message": "Hanamoto Aki'ko tells you, \"To that end, if you will do me the honor of killing 5 of the Spectral Nanjou Shou-jen within the towns or up within the walled fortress, I will reward you for your efforts.\"\n",
-    "monster_substrings": ["Spectral Nanjou Shou-jen"],
+    "monster_substrings": ["Spectral Nanjou Shou-jens"],
     "end_messages": ["Hanamoto Aki'ko tells you, \"Thank you for your aid my assigned task. Please, accept this reward for your part in this.\"\n"]
   },
   {
@@ -374,7 +374,7 @@
   {
     "name": "Spectral Mage Kill Task",
 	"num_kills": 5,
-	"start_message": "Lord Eorlinde tells you, \"While these two types of spirits continue to exist, they pose a tremendous threat to the kingdom. If you will aid our efforts by dispatching 5 of them, I will reward you for your assistance.\"\n",
+	"start_message": "Lord Eorlinde tells you, \"While these two types of spirits continue to exist, they pose a tremendous threat to the kingdom.  If you will aid our efforts by dispatching 5 of them, I will reward you for your assistance.\"\n",
     "monster_substrings": 
 	[
 	  "Spectral Bloodmages", 
@@ -408,9 +408,9 @@
 	"start_message": "Lieutenant Aurin tells you, \"If you will do me the honor of killing 5 of the Golem Samurai within the towns or up within the walled fortress, I will reward you for your efforts.\"\n",
     "monster_substrings": 
 	[
-	  "Bronze Golem Samurai", 
-	  "Clay Golem Samurai",
-	  "Iron Golem Samurai"
+	  "Bronze Golem Samurais", 
+	  "Clay Golem Samurais",
+	  "Iron Golem Samurais"
 	],
     "end_messages": ["Lieutenant Aurin tells you, \"Well done, well done indeed. You are an honor to your people.\"\n"]
   },
@@ -418,7 +418,7 @@
     "name": "Sarcophagus Kill Task",
 	"num_kills": 4,
 	"start_message": "Sergeant Freng tells you, \"Find and destroy 4 Sarcophagi within the town to prevent more from joining her and I will reward you.\"\n",
-    "monster_substrings": ["Sarcophagi"],
+    "monster_substrings": ["Sarcophaguss"],
     "end_messages": ["Sergeant Freng tells you, \"Excellent work! That should help slow the spread of her evil forces.\"\n"]
   }
 ]

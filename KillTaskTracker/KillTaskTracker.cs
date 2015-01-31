@@ -37,7 +37,7 @@ namespace KillTaskTracker
                 monster_substrings_ = new Dictionary<String, KillTask>();
                 end_messages_ = new Dictionary<String, KillTask>();
                 active_tasks_ = new List<KillTask>();
-                kill_regex_ = new Regex("You have killed ([0-9]+) ([A-Za-z ]+)! (You must kill [0-9]+ to complete your task.)|(Your task is complete!)\n");
+                kill_regex_ = new Regex("^You have killed ([0-9]+) ([A-Za-z -]+)! (?:(?:You must kill [0-9]+ to complete your task.)|(?:Your task is complete!))\n$");
                 dll_directory_ = System.IO.Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location);
 
                 LoadTasks(dll_directory_ + "\\task_definitions.json");
@@ -252,6 +252,9 @@ namespace KillTaskTracker
         {
             try
             {
+                CoreManager.Current.CharacterFilter.LoginComplete -= new EventHandler(LoginComplete);
+                Core.ChatBoxMessage -= CheckForKillTaskMessage;
+                CoreManager.Current.CommandLineText -= new EventHandler<ChatParserInterceptEventArgs>(CheckForTaskListQuery);
                 active_tasks_.Clear();
             }
             catch (Exception ex) {  }
